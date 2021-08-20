@@ -1,6 +1,41 @@
-### Welcome to mengmianxiaoxia 
+# Hi,我是蒙面小侠
 
-You can use the [editor on GitHub](https://github.com/Mengmianxiaoxia/mengmianxiaoxia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- 下面是自我介绍
+- 希望多和大家交流
+## 个人信息
+---
+|   |   |   |   |
+| :----- | :--: | :----- | :--: |
+| 姓名 |  陈震  | 年龄 |  XX  |
+| 身高 |  17x  | 性别  | 男  |
+| 爱好 |  玩游戏 | 运动 | 看书 |
+---
+- 下面说一下个人技能吧
+## 技能
+|  语言  |  自我评分  | 语言延伸|延伸自我评分|
+| :----- | :--: |  :--: | :--:  |
+| html |  ★★★★☆  | 
+| css |  ★★★★☆  | sass,less|  ★★☆  |
+| js |  ★★★★  | vue2,React,jQ|  ★★★ |
+| TypeScript |  ★★★☆  | angular,vue3 | ★★★☆ |
+| ionic | ★★★☆  | uniapp | ★★★ |
+| ruby|  ☆  | rails | ★☆|
+| nodejs | ★★☆ | nest,Express.js | ★★☆ |
+| DB | ★★☆ | mongodb,mySQL | ★★☆ |
+| server | ★★☆ | tomcat,nginx | ★★☆ |
+
+---
+
+```markdown
+### 希望能认识更多的朋友。
+有问题可以大家一起交流。
+企鹅（QQ）：94578148
+weChat: （请扫描二维码）
+
+```
+![请扫描二维码](./20210820104005.jpg)
+
+<!-- You can use the [editor on GitHub](https://github.com/Mengmianxiaoxia/mengmianxiaoxia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -12,7 +47,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -34,4 +71,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
