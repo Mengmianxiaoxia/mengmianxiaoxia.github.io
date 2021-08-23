@@ -1,10 +1,3 @@
-
-<style>
-  .header{
-  display:none;
-  }
-</style>
-
 # Hi,我是蒙面小侠
 
 - 下面是自我介绍
