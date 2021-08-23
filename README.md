@@ -63,6 +63,152 @@
 | DB | ★★☆ | mongodb,mySQL | ★★☆ |
 | server | ★★☆ | tomcat,nginx | ★★☆ |
 
+<table>
+  <tr>
+    <th>
+      语言
+    </th>
+    <th>
+      自我评分
+    </th>
+    <th>
+      语言延伸
+    </th>
+    <th>
+      延伸自我评分
+    </th>
+  </tr>
+    
+  <tr>
+    <td>
+      html
+    </td>
+    <td>
+       ★★★★☆
+    </td>
+    <td>
+       
+    </td>
+    <td>
+        
+    </td>
+  </tr>
+  <tr>
+    <td>
+      css
+    </td>
+    <td>
+       ★★★★☆
+    </td>
+    <td>
+       sass,less
+    </td>
+    <td>
+        ★★★★☆
+    </td>
+  </tr>
+  <tr>
+    <td>
+      js
+    </td>
+    <td>
+      ★★★★
+    </td>
+    <td>
+       vue2,React,jQ
+    </td>
+    <td>
+       ★★★
+    </td>
+  </tr>
+  <tr>
+    <td>
+      TypeScript
+    </td>
+    <td>
+      ★★★☆
+    </td>
+    <td>
+       angular,vue3
+    </td>
+    <td>
+       ★★★
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ionic
+    </td>
+    <td>
+      ★★★☆
+    </td>
+    <td>
+       uniapp
+    </td>
+    <td>
+       ★★★
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ruby
+    </td>
+    <td>
+      ★
+    </td>
+    <td>
+       rails
+    </td>
+    <td>
+       ★☆
+    </td>
+  </tr>
+  <tr>
+    <td>
+      nodejs
+    </td>
+    <td>
+      ★★☆
+    </td>
+    <td>
+        nest,Express.js
+    </td>
+    <td>
+       ★★☆
+    </td>
+  </tr>
+  <tr>
+    <td>
+      DB
+    </td>
+    <td>
+      ★★☆
+    </td>
+    <td>
+         mongodb,mySQL
+    </td>
+    <td>
+       ★★☆
+    </td>
+  </tr>
+  <tr>
+    <td>
+      server
+    </td>
+    <td>
+      ★★☆
+    </td>
+    <td>
+        tomcat,nginx,puma
+    </td>
+    <td>
+       ★★☆
+    </td>
+  </tr>
+ 
+</table>
+
+
 ---
 
 ```markdown
