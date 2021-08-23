@@ -51,17 +51,6 @@
 ---
 - 下面说一下个人技能吧
 ## 技能
-|  语言  |  自我评分  | 语言延伸|延伸自我评分|
-| :----- | :--: |  :--: | :--:  |
-| html |  ★★★★☆  | 
-| css |  ★★★★☆  | sass,less|  ★★☆  |
-| js |  ★★★★  | vue2,React,jQ|  ★★★ |
-| TypeScript |  ★★★☆  | angular,vue3 | ★★★☆ |
-| ionic | ★★★☆  | uniapp | ★★★ |
-| ruby|  ☆  | rails | ★☆|
-| nodejs | ★★☆ | nest,Express.js | ★★☆ |
-| DB | ★★☆ | mongodb,mySQL | ★★☆ |
-| server | ★★☆ | tomcat,nginx | ★★☆ |
 
 <table>
   <tr>
@@ -86,12 +75,7 @@
     <td>
        ★★★★☆
     </td>
-    <td>
-       
-    </td>
-    <td>
-        
-    </td>
+    
   </tr>
   <tr>
     <td>
