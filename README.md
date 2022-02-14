@@ -60,12 +60,6 @@
     <th>
       自我评分
     </th>
-    <th>
-      语言延伸
-    </th>
-    <th>
-      延伸自我评分
-    </th>
   </tr>
     
   <tr>
@@ -75,11 +69,6 @@
     <td>
        ★★★★☆
     </td>
-    <td>
-    </td>
-    <td>
-    </td>
-    
   </tr>
   <tr>
     <td>
@@ -88,6 +77,8 @@
     <td>
        ★★★★☆
     </td>
+  </tr>
+  <tr>
     <td>
        sass,less
     </td>
@@ -102,7 +93,9 @@
     <td>
       ★★★★
     </td>
-    <td>
+  </tr>
+  <tr>
+     <td>
        vue2,React,jQ
     </td>
     <td>
@@ -125,12 +118,22 @@
   </tr>
   <tr>
     <td>
+       angular,vue3
+    </td>
+    <td>
+       ★★★
+    </td>
+  </tr>
+  <tr>
+    <td>
       ionic
     </td>
     <td>
       ★★★☆
     </td>
-    <td>
+  </tr>
+    <tr>
+     <td>
        uniapp
     </td>
     <td>
@@ -144,6 +147,8 @@
     <td>
       ★
     </td>
+  </tr>
+  <tr>
     <td>
        rails
     </td>
@@ -158,6 +163,8 @@
     <td>
       ★★☆
     </td>
+  </tr>
+  <tr>
     <td>
         nest,Express.js
     </td>
@@ -172,6 +179,8 @@
     <td>
       ★★☆
     </td>
+  </tr>
+  <tr>
     <td>
          mongodb,mySQL
     </td>
@@ -192,6 +201,8 @@
     <td>
        ★★☆
     </td>
+  </tr>
+  <tr>
   </tr>
  
 </table>
