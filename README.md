@@ -96,7 +96,7 @@
   </tr>
   <tr>
      <td>
-       vue2,React,jQ
+       vue,React,jQ
     </td>
     <td>
        ★★★
@@ -109,19 +109,13 @@
     <td>
       ★★★☆
     </td>
-    <td>
-       angular,vue3
-    </td>
-    <td>
-       ★★★
-    </td>
   </tr>
   <tr>
     <td>
-       angular,vue3
+       angular
     </td>
     <td>
-       ★★★
+       ★★★★
     </td>
   </tr>
   <tr>
@@ -195,14 +189,14 @@
     <td>
       ★★☆
     </td>
+  </tr>
+  <tr>
     <td>
         tomcat,nginx,puma
     </td>
     <td>
        ★★☆
     </td>
-  </tr>
-  <tr>
   </tr>
  
 </table>
